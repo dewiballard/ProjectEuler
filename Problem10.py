@@ -11,6 +11,7 @@ Created on Sat Nov 16 20:45:45 2019
 # the primes below two million.
 
 total = 0
+
 i = 1
 
 def isprime(n):

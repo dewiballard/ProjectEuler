@@ -7,7 +7,7 @@ Created on Sat Nov 16 20:48:12 2019
 """
 
 # Problem 12
-# Code works for smaller numbers, but doesn't scale.
+# Code works for smaller numbers, but doesn't scale well at all.
 
 import time
 start = time.time()
